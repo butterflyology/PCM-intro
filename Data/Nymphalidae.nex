@@ -1,0 +1,521 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=427;
+	taxlabels
+	Achlyodes
+	Acraea
+	Actinote
+	Adelpha
+	Aemona
+	Aeria
+	Aeropetes
+	Agatasa
+	Aglais
+	Agraulis
+	Agrias
+	Algia
+	Algiachroa
+	Altiapa
+	Altinote
+	Amarynthis
+	Amathusia
+	Amathuxidia
+	Amauris
+	Amnosia
+	Amphidecta
+	Anaea
+	Anaeomorpha
+	Anartia
+	Anetia
+	Antanartia
+	Anthanassa
+	Antillea
+	Antirrhea
+	Apatura
+	Apaturopsis
+	Apexacuta
+	Aphantopus
+	Aporia
+	Araschnia
+	Archaeoprepona
+	Archeuptychia
+	Archimestra
+	Arethusana
+	Argynnina
+	Argynnis
+	Argyronympha
+	Argyrophenga
+	Argyrophorus
+	Ariadne
+	Asterocampa
+	Aterica
+	Athesis
+	Athyma
+	Athyrtis
+	Atlantea
+	Auca
+	Baeotus
+	Baliochila
+	Baronia
+	Bassarona
+	Batesia
+	Bebearia
+	Bematistes
+	Berberia
+	Bia
+	Biblis
+	Bicyclus
+	Boloria
+	Brassolis
+	Brenthis
+	Brevioleria
+	Brintesia
+	Byblia
+	Caerois
+	Caeruleuptychia
+	Caligo
+	Calinaga
+	Calisto
+	Callicore
+	Callithomia
+	Cassionympha
+	Castilia
+	Catacroptera
+	Catoblepia
+	Catonephele
+	Catuna
+	Celastrina
+	Cepheuptychia
+	Ceratinia
+	Cercyonis
+	Cethosia
+	Charaxes
+	Chazara
+	Chersonesia
+	Chillanella
+	Chitoria
+	Chloreuptychia
+	Chlosyne
+	Chonala
+	Cirrochroa
+	Cissia
+	Cithaerias
+	Coenonympha
+	Coenophlebia
+	Colias
+	Colobura
+	Consul
+	Corades
+	Cosmosatyrus
+	Crenidomimas
+	Crocozona
+	Cupha
+	Curetis
+	Cyllogenes
+	Cyllopsis
+	Cymothoe
+	Cyrestis
+	Daedalma
+	Dagon
+	Danaus
+	Dasyopthalma
+	Diaethria
+	Dichorragia
+	Dione
+	Dira
+	Dircenna
+	Discophora
+	Dodonidia
+	Doleschallia
+	Dophla
+	Doxocopa
+	Dryadula
+	Dryas
+	Dynamine
+	Dynastor
+	Ectima
+	Elina
+	Elymnias
+	Elzunia
+	Emesis
+	Enodia
+	Epiphile
+	Episcada
+	Epityches
+	Erebia
+	Erebiola
+	Eresia
+	Eretris
+	Erichthodes
+	Erites
+	Etcheverrius
+	Eteona
+	Ethope
+	Eueides
+	Eulaceura
+	Eunica
+	Euphaedra
+	Euphydryas
+	Euploea
+	Euptera
+	Euptoieta
+	Euptychia
+	Euptychoides
+	Eurema
+	Euriphene
+	Euripus
+	Euryphura
+	Eurytela
+	Euselasia
+	Euxanthe
+	Faunis
+	Faunula
+	Foetterleia
+	Forbestra
+	Forsterinaria
+	Fountainea
+	Geitoneura
+	Gnathotriche
+	Gnophodes
+	Godartiana
+	Godyris
+	Graphium
+	Greta
+	Guaianaza
+	Haematera
+	Haetera
+	Hallelesis
+	Hamadryas
+	Hamanumida
+	Hamearis
+	Harjesia
+	Harma
+	Harsiesis
+	Heliconius
+	Henotesia
+	Hermeuptychia
+	Hestina
+	Hestinalis
+	Heteronympha
+	Heterosais
+	Higginsius
+	Hipparchia
+	Historis
+	Hyalenna
+	Hyaliris
+	Hyantis
+	Hypanartia
+	Hypna
+	Hypocysta
+	Hypoleria
+	Hypolimnas
+	Hyponephele
+	Hyposcada
+	Hypothyris
+	Ianussiusa
+	Idea
+	Ideopsis
+	Idioneurula
+	Issoria
+	Ithomia
+	Ituna
+	Janatella
+	Junonia
+	Kallima
+	Kallimoides
+	Kaniska
+	Karanasa
+	Kirinia
+	Lachnoptera
+	Lamprolenis
+	Laringa
+	Lasiommata
+	Lasiophila
+	Lasippa
+	Lebadea
+	Leptidea
+	Lethe
+	Lexias
+	Libythea
+	Libytheana
+	Limenitis
+	Liphyra
+	Lopinga
+	Lucia
+	Lucinia
+	Lycaena
+	Lycorea
+	Lyela
+	Lymanopoda
+	Magneuptychia
+	Mallika
+	Manataria
+	Manerebia
+	Maniola
+	Marpesia
+	Mazia
+	Mcclungia
+	Mechanitis
+	Megisto
+	Megoleria
+	Melanargia
+	Melanitis
+	Melinaea
+	Melitaea
+	Memphis
+	Mesoxantha
+	Mestra
+	Metamorpha
+	Methona
+	Microtia
+	Miletus
+	Mimathyma
+	Moduza
+	Moneuptychia
+	Morpho
+	Morphotenaris
+	Mycalesis
+	Mygona
+	Mynes
+	Myscelia
+	Napeocles
+	Napeogenes
+	Narope
+	Nelia
+	Neocoenyra
+	Neominois
+	Neonympha
+	Neope
+	Neorina
+	Neptidopsis
+	Neptis
+	Nesoxenica
+	Nessaea
+	Nica
+	Nymphalis
+	Nymphidium
+	Oeneis
+	Oleria
+	Ollantaya
+	Olyras
+	Opoptera
+	Opsiphanes
+	Oreixenica
+	Oressinoma
+	Orsotriaena
+	Ortilia
+	Oxeoschistus
+	Pagyris
+	Paititia
+	Palaeonympha
+	Palla
+	Pampasatyrus
+	Panacea
+	Pantoporia
+	Panyapedaliodes
+	Papilio
+	Paralasa
+	Paralethe
+	Parantica
+	Parapedaliodes
+	Pararge
+	Parataygetis
+	Pardopsis
+	Pareuptychia
+	Parnassius
+	Parthenos
+	Paryphthimoides
+	Patricia
+	Pedaliodes
+	Penthema
+	Percnodaimon
+	Phalanta
+	Pharneuptychia
+	Philaethria
+	Phyciodes
+	Phystis
+	Pierella
+	Pieris
+	Pindis
+	Placidina
+	Platypthima
+	Poladryas
+	Polygonia
+	Polygrapha
+	Polyura
+	Poritia
+	Praepedaliodes
+	Precis
+	Prepona
+	Proboscis
+	Pronophila
+	Proterebia
+	Prothoe
+	Protogoniomorpha
+	Pseudacraea
+	Pseudergolis
+	Pseudochazara
+	Pseudohaetera
+	Pseudomaniola
+	Pseudoneptis
+	Pseudonympha
+	Pseudopontia
+	Pseudoscada
+	Pteronymia
+	Punapedaliodes
+	Pycina
+	Pyronia
+	Pyrrhogyra
+	Quilaphoetosus
+	Ragadia
+	Rareuptychia
+	Rhaphicera
+	Rhinopalpa
+	Riodina
+	Sais
+	Salamis
+	Satyrodes
+	Satyrus
+	Scada
+	Sephisa
+	Sevenia
+	Siderone
+	Siproeta
+	Smyrna
+	Steremnia
+	Steroma
+	Stibochiona
+	Stichophthalma
+	Stygionympha
+	Styx
+	Symbrenthia
+	Taenaris
+	Tanaecia
+	Tarsocera
+	Taydebis
+	Taygetis
+	Tegosa
+	Telenassa
+	Tellervo
+	Temenis
+	Terinos
+	Thaumantis
+	Thauria
+	Thecla
+	Thyridia
+	Tigridia
+	Timelaea
+	Tirumala
+	Tisiphone
+	Tithorea
+	Torynesis
+	Triphysa
+	Troides
+	Vagrans
+	Vanessa
+	Vanessula
+	Veladyris
+	Velamysta
+	Vila
+	Vindula
+	Xanthotaenia
+	Yoma
+	Yphthimoides
+	Ypthima
+	Ypthimomorpha
+	Yramea
+	Zaretis
+	Zethera
+	Zeuxidia
+	Zipaetis
+	Zischkaia
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (((Libythea:26.97252,Libytheana:26.97252):67.473578,((((((((((Olyras:9.846575,Paititia:9.846575):7.043601,Melinaea:16.890177):3.51723,Athyrtis:20.407407):8.143086,(Athesis:21.312084,Patricia:21.312084):7.238409):2.377248,((((Hyposcada:18.918456,(Oleria:15.643258,Ollantaya:15.643258):3.275198):1.17717,Megoleria:20.095626):4.770756,(((Epityches:19.979659,(Napeogenes:17.418684,(Hypothyris:7.747554,Hyaliris:7.747554):9.67113):2.560974):1.620274,((Placidina:12.700158,Pagyris:12.700158):3.977033,Ithomia:16.677191):4.922741):1.991665,(((((Hypoleria:9.837378,(Mcclungia:6.763437,Brevioleria:6.763437):3.073941):4.263446,Heterosais:14.100824):2.67999,((Pseudoscada:12.724112,Greta:12.724112):3.182563,Godyris:15.906675):0.87414):2.17301,(Veladyris:15.126741,Velamysta:15.126741):3.827084):2.598877,(Callithomia:18.521188,((Dircenna:11.420191,Hyalenna:11.420191):4.953261,(Pteronymia:15.674403,(Ceratinia:10.158672,Episcada:10.158672):5.515731):0.69905):2.147735):3.031514):2.038896):1.274785):4.823455,(Methona:27.557053,((Tithorea:18.2277,Elzunia:18.2277):4.754743,Aeria:22.982444):4.574609):2.132785):1.237903):1.769041,((Mechanitis:12.854157,Forbestra:12.854157):12.996045,(Scada:21.051734,Sais:21.051734):4.798468):6.84658):4.456349,Thyridia:37.153131):8.58486,Tellervo:45.737991):6.028091,((Anetia:16.012778,(Lycorea:9.866312,Ituna:9.866312):6.146467):25.662862,(((Tirumala:18.677094,Danaus:18.677094):11.196283,(Amauris:18.708645,(Parantica:8.495997,Ideopsis:8.495997):10.212648):11.164732):3.600727,(Euploea:17.712637,Idea:17.712637):15.761467):8.201536):10.090442):38.021557,((((((((Dryadula:23.160439,Dryas:23.160439):2.851109,Philaethria:26.011548):4.360253,((Dione:15.639039,Agraulis:15.639039):10.778612,(Heliconius:18.420377,Eueides:18.420377):7.997274):3.95415):16.842951,((((Altinote:11.607634,Actinote:11.607634):18.262301,Bematistes:29.869935):2.395232,Acraea:32.265166):11.721025,Cethosia:43.986192):3.22856):8.94824,((Vindula:43.989397,((Algia:13.154366,(Algiachroa:11.41508,Cirrochroa:11.41508):1.739286):19.064848,Lachnoptera:32.219214):11.770183):5.424669,((((Vagrans:16.691775,Phalanta:16.691775):4.007868,Cupha:20.699642):16.380258,Euptoieta:37.0799):5.152521,(Terinos:37.45304,((Yramea:24.636088,(Boloria:17.221786,((Brenthis:11.00234,Argynnis:11.00234):2.940263,Issoria:13.942603):3.279183):7.414302):4.204121,Pardopsis:28.840209):8.612831):4.77938):7.181645):6.748926):11.798509,(((Harma:15.091249,Cymothoe:15.091249):35.714561,((((((Limenitis:13.834128,Adelpha:13.834128):5.64471,Moduza:19.478838):3.254787,Athyma:22.733625):18.907467,(Pseudoneptis:37.141877,Pseudacraea:37.141877):4.499215):4.180912,((((Euphaedra:17.036987,Bebearia:17.036987):15.235268,((Hamanumida:17.224326,(Euryphura:4.463615,Crenidomimas:4.463615):12.760711):1.673561,(Euriphene:14.357879,Aterica:14.357879):4.540009):13.374367):3.611293,Catuna:35.883547):3.138661,(Euptera:35.75808,(Bassarona:25.787371,((Tanaecia:20.009455,Lexias:20.009455):3.117402,Dophla:23.126857):2.660513):9.970709):3.264128):6.799796):2.761278,(Lebadea:39.930589,(Neptis:24.364736,(Pantoporia:13.065114,Lasippa:13.065114):11.299622):15.565853):8.652692):2.222529):6.221348,Parthenos:57.027158):10.934343):10.593326,(((((Chersonesia:33.358242,Cyrestis:33.358242):7.932122,Marpesia:41.290364):20.505405,(Pycina:57.991263,((Historis:17.425291,Baeotus:17.425291):38.883577,((((Tigridia:21.323109,Colobura:21.323109):15.930736,Smyrna:37.253846):9.284552,((Araschnia:33.12431,(Mynes:30.12863,Symbrenthia:30.12863):2.99568):5.382478,((Vanessa:33.295798,(Antanartia:29.933459,(((Nymphalis:10.392668,Kaniska:10.392668):1.367482,Polygonia:11.76015):5.575864,Aglais:17.336014):12.597445):3.362339):1.744824,Hypanartia:35.040622):3.466166):8.03161):5.974807,(Rhinopalpa:49.706772,(((((Anartia:25.818258,Metamorpha:25.818258):4.182362,(Napeocles:14.63182,Siproeta:14.63182):15.3688):11.075771,(Vanessula:39.195648,((Precis:23.054168,Hypolimnas:23.054168):6.014562,((Yoma:17.712644,Protogoniomorpha:17.712644):6.739434,(Salamis:21.302278,Junonia:21.302278):3.1498):4.616651):10.126918):1.880743):2.274471,(Kallimoides:40.418171,(Kallima:26.376612,(Mallika:13.331631,Catacroptera:13.331631):13.044981):14.041559):2.932691):3.377928,(Doleschallia:42.526419,(Euphydryas:35.391776,((((Atlantea:23.690127,(Phystis:21.689985,(((Tegosa:15.713124,(((Dagon:10.472687,(Janatella:9.064413,Eresia:9.064413):1.408274):0.906929,(Telenassa:9.233613,Castilia:9.233613):2.146004):2.174618,Anthanassa:13.554235):2.158889):1.025331,Phyciodes:16.738455):3.282511,(Mazia:17.394141,Ortilia:17.394141):2.626826):1.669019):2.000142):3.132954,Antillea:26.823082):2.424382,(Higginsius:24.682252,Gnathotriche:24.682252):4.565212):1.229896,(Melitaea:26.899892,((Chlosyne:21.201783,Microtia:21.201783):2.256518,Poladryas:23.458301):3.441591):3.577469):4.914416):7.134643):4.202371):2.977983):2.806432):3.795662):1.682396):3.804506):3.958328,(((((Mimathyma:13.996046,Hestinalis:13.996046):10.462404,((Sephisa:21.62272,Apatura:21.62272):1.419674,(Hestina:14.606519,Euripus:14.606519):8.435875):1.416056):4.553605,Doxocopa:29.012055):10.373976,((Eulaceura:24.333932,(Apaturopsis:22.69887,(Chitoria:16.229043,Asterocampa:16.229043):6.469827):1.635062):8.814689,Timelaea:33.148621):6.23741):22.348709,((((Sevenia:26.597168,Eunica:26.597168):11.268907,((Batesia:12.019153,Panacea:12.019153):21.860589,(Ectima:26.669043,Hamadryas:26.669043):7.210698):3.986334):2.085285,((Myscelia:20.805147,(Nessaea:17.69154,Catonephele:17.69154):3.113607):15.919537,((Pyrrhogyra:25.310921,((Temenis:13.130849,Nica:13.130849):8.056388,Epiphile:21.187236):4.123684):5.164824,(((Diaethria:16.50775,Callicore:16.50775):2.909368,Haematera:19.417119):2.979083,Lucinia:22.396202):8.079543):6.248939):3.226676):2.753487,(Dynamine:39.033154,((((((Neptidopsis:14.319234,Mesoxantha:14.319234):2.602795,Byblia:16.922029):2.377013,Eurytela:19.299042):2.335772,(Mestra:18.44687,Archimestra:18.44687):3.187944):1.900091,(Laringa:21.296362,Ariadne:21.296362):2.238544):5.482744,(Vila:13.122043,Biblis:13.122043):15.895607):10.015504):3.671694):19.029893):4.019357):5.887125,(Amnosia:49.262563,((Dichorragia:34.041984,Stibochiona:34.041984):7.193368,Pseudergolis:41.235352):8.027211):22.378659):6.913605):6.796282,(Calinaga:75.659357,(((((Prepona:14.526378,Agrias:14.526378):19.087965,Archaeoprepona:33.614343):13.316328,((Coenophlebia:38.787301,(((Memphis:22.665619,(Anaea:18.091952,(Polygrapha:12.535248,Fountainea:12.535248):5.556704):4.573667):4.505191,Consul:27.170811):9.750139,(Zaretis:17.361322,Siderone:17.361322):19.559628):1.866352):4.809553,(Hypna:38.901881,Anaeomorpha:38.901881):4.694973):3.333818):1.827221,(((Polyura:22.646883,(Charaxes:18.085554,Euxanthe:18.085554):4.561329):17.542084,Palla:40.188967):5.204929,(Prothoe:31.212923,Agatasa:31.212923):14.180973):3.363996):21.58825,((((((((Lyela:20.993036,(Triphysa:18.177509,Coenonympha:18.177509):2.815527):15.987976,Oressinoma:36.981012):4.767069,(((Lamprolenis:27.497432,(Altiapa:20.996725,Hypocysta:20.996725):6.500707):6.322726,(Harsiesis:16.094866,Platypthima:16.094866):17.725292):5.926777,(((Nesoxenica:33.238897,Tisiphone:33.238897):3.86399,((Geitoneura:30.64651,Argynnina:30.64651):5.087398,(Oreixenica:31.969094,Heteronympha:31.969094):3.764815):1.368978):1.04449,((Erebiola:17.562206,(Argyrophenga:15.53423,Percnodaimon:15.53423):2.027976):10.024628,Dodonidia:27.586835):10.560542):1.599558):2.001146):2.532704,Argyronympha:44.280785):3.794546,((Zipaetis:37.759467,(Orsotriaena:32.167301,Erites:32.167301):5.592166):6.889732,Ragadia:44.649199):3.426132):1.560478,((((Henotesia:24.153703,Bicyclus:24.153703):2.4606,(Hallelesis:21.86346,Mycalesis:21.86346):4.750843):13.404666,(Neope:36.575305,((Lethe:23.218912,(Satyrodes:14.976052,Enodia:14.976052):8.24286):9.843219,Rhaphicera:33.062131):3.513174):3.443663):3.893337,(((Lasiommata:23.68724,Pararge:23.68724):1.656259,(Chonala:16.850867,Lopinga:16.850867):8.492632):2.850002,Kirinia:28.193502):15.718804):5.723503):2.505172,(Steroma:49.141138,((((((((Moneuptychia:18.898895,Yphthimoides:18.898895):4.303291,Euptychoides:23.202187):3.26628,Cissia:26.468467):3.886365,(Megisto:17.003061,Palaeonympha:17.003061):13.351772):4.776897,((((((Taydebis:19.906406,((Pareuptychia:15.676835,Erichthodes:15.676835):2.145494,Neonympha:17.822329):2.084077):3.826116,Archeuptychia:23.732521):2.783993,((Paryphthimoides:19.260973,(Magneuptychia:11.628277,Caeruleuptychia:11.628277):7.632696):2.613734,Cepheuptychia:21.874707):4.641808):1.496739,(Parataygetis:20.449602,(((Harjesia:16.495975,Forsterinaria:16.495975):2.025227,Guaianaza:18.521203):0.745219,Taygetis:19.266422):1.18318):7.563651):3.819013,(((Rareuptychia:22.538454,Amphidecta:22.538454):6.003161,Zischkaia:28.541615):1.851724,(Pharneuptychia:25.303141,Chloreuptychia:25.303141):5.090198):1.438927):1.490835,(Pindis:30.411656,(Godartiana:27.551345,Hermeuptychia:27.551345):2.860312):2.911446):1.808627):7.260638,Cyllopsis:42.392367):3.365419,Euptychia:45.757786):1.955192,(((Ypthimomorpha:17.05745,Ypthima:17.05745):20.70926,(((Neocoenyra:20.827289,Pseudonympha:20.827289):5.987374,Cassionympha:26.814663):4.035882,Stygionympha:30.850545):6.916166):7.088064,((((Paralasa:37.016858,(Calisto:27.935387,Melanargia:27.935387):9.081471):2.081411,((((Aphantopus:22.318144,Pyronia:22.318144):2.305451,Maniola:24.623595):11.308388,(Hyponephele:23.294632,Cercyonis:23.294632):12.637352):1.480235,Erebia:37.412218):1.686051):1.586811,(((Hipparchia:17.840221,Berberia:17.840221):6.873936,((Karanasa:16.27505,(Oeneis:12.158382,Neominois:12.158382):4.116668):2.341715,((Arethusana:14.799873,Brintesia:14.799873):2.426916,(Satyrus:14.459052,(Pseudochazara:12.438249,Chazara:12.438249):2.020803):2.767737):1.389976):6.097391):12.710567,Proterebia:37.424723):3.260357):1.990243,((Eretris:38.143168,((((((Quilaphoetosus:11.437096,Elina:11.437096):3.957512,((Cosmosatyrus:1.45413,Chillanella:1.45413):10.765822,Auca:12.219952):3.174656):5.874407,Pampasatyrus:21.269015):1.132355,(Etcheverrius:16.124509,Argyrophorus:16.124509):6.276861):8.673534,(Faunula:21.757205,Nelia:21.757205):9.317699):3.981668,(Steremnia:32.966808,(((Lymanopoda:22.394064,Ianussiusa:22.394064):3.282179,Idioneurula:25.676243):3.247338,Manerebia:28.923582):4.043226):2.089764):3.086596):2.821917,(((((((Oxeoschistus:16.522118,(Mygona:11.302636,Proboscis:11.302636):5.219481):1.126361,Lasiophila:17.648479):1.591406,(Pseudomaniola:14.225707,Apexacuta:14.225707):5.014178):2.372073,Daedalma:21.611958):2.926833,((Foetterleia:17.914913,Eteona:17.914913):3.580356,Pronophila:21.495269):3.043522):1.006709,Corades:25.545499):7.653273,((Praepedaliodes:19.978075,(Punapedaliodes:17.963016,Parapedaliodes:17.963016):2.015059):4.58049,(Panyapedaliodes:22.235442,Pedaliodes:22.235442):2.323123):8.640208):7.766312):1.710238):2.179452):2.858204):1.428159):2.999844):8.569302,(((((((Narope:20.356461,Opoptera:20.356461):6.868006,Caligo:27.224467):3.495582,(Brassolis:27.955077,(Catoblepia:21.351448,Opsiphanes:21.351448):6.60363):2.764971):2.363804,(Dasyopthalma:23.764925,Dynastor:23.764925):9.318927):6.01978,Bia:39.103632):9.428198,((Caerois:32.614619,Morpho:32.614619):5.158648,Antirrhea:37.773267):10.758563):7.185477,(((((((((Discophora:25.601323,((Zeuxidia:11.558236,Amathuxidia:11.558236):2.170141,Amathusia:13.728377):11.872946):2.88264,Thaumantis:28.483963):0.854761,Thauria:29.338724):5.280957,Stichophthalma:34.619681):3.209924,(Aemona:31.883484,((Morphotenaris:10.327801,Taenaris:10.327801):9.790881,Faunis:20.118682):11.764802):5.946121):9.031064,(((Ethope:11.517415,Zethera:11.517415):9.214501,(Penthema:13.80722,Neorina:13.80722):6.924695):9.601441,Xanthotaenia:30.333356):16.527313):1.593839,Hyantis:48.454508):1.764828,(Elymnias:46.529695,(((Paralethe:26.193458,(Dira:21.143371,(Torynesis:19.719287,(Tarsocera:17.196072,Aeropetes:17.196072):2.523216):1.424084):5.050087):12.900503,Manataria:39.093961):4.004872,(Cyllogenes:28.77067,(Melanitis:16.729411,Gnophodes:16.729411):12.041259):14.328163):3.430863):3.689641):2.044809,((Pseudohaetera:24.467996,(Haetera:20.505329,Cithaerias:20.505329):3.962667):10.914572,Pierella:35.382568):16.881577):3.453161):4.992977):9.635859):5.313215):9.691752):4.436531):4.658458):10.27278,(((((Eurema:46.653513,Colias:46.653513):21.789243,(Leptidea:56.525537,Pseudopontia:56.525537):11.917219):4.067566,(Pieris:43.525298,Aporia:43.525298):28.985024):25.463407,((((Styx:33.825778,Hamearis:33.825778):19.701657,Euselasia:53.527436):11.667551,((Nymphidium:32.361545,Emesis:32.361545):5.77905,(Crocozona:31.911632,(Riodina:24.974504,Amarynthis:24.974504):6.937128):6.228963):27.054392):27.263921,((((Baliochila:40.688314,Poritia:40.688314):18.595902,(Miletus:48.286843,Liphyra:48.286843):10.997373):8.18256,((Lycaena:49.792648,(Celastrina:41.810423,Thecla:41.810423):7.982224):7.90827,Lucia:57.700917):9.765858):7.583478,Curetis:75.050253):17.408655):5.514821):3.040716,((Graphium:62.81461,((Troides:48.23482,Papilio:48.13559):10.383617,(Parnassius:50.196235,Baronia:50.196235):8.422202):4.196173):20.468309,Achlyodes:83.282919):17.731527):3.704432);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShape.colourAttribute=null;
+	set nodeShape.isShown=false;
+	set nodeShape.minSize=10.0;
+	set nodeShape.scaleType=Width;
+	set nodeShape.shapeType=Circle;
+	set nodeShape.size=4.0;
+	set nodeShape.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
